@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+.container{
+    max-width: 960px;
+    margin: 0 auto;
+    width: 100%;
+}
+
+:root {
+    --corPrincipal: #697565;
+    --corSecundaria: #3C3D37;
+    --corTerciaria: #181C14;
+    --corNeutra: #ECDFCC;
+}
+
+.seach{
+    display: flex;
+    width: 50%;
+    align-items: center;
+    border:2px solid red;
+    margin: 0 auto;
+    text-align: center;
+    font-weight: bold;
+}
