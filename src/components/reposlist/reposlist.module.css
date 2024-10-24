@@ -25,3 +25,11 @@
     padding: 8px;
     text-decoration: none;
 }
+
+.throwErrorTitle{
+    text-align: center;
+}
+
+.throwErrorMessage{
+    text-align: center;
+}
